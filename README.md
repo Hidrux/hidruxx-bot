@@ -1,3 +1,7 @@
+# Hidruxx's Bot 
+
+Politique de Confidentialité
+
 Politique de Confidentialité pour Hidruxx's Bot
 Dernière mise à jour : 23/07/2024
 Hidruxx's Bot respecte votre vie privée et s'engage à protéger vos informations personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos informations lorsque vous utilisez notre bot Discord "Hidruxx's Bot".
